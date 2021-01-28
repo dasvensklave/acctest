@@ -17,7 +17,7 @@ yarn, npm and node v14.15.4
 
 ## Usage
 
-### Development server
+### install
 - npm install
 
 ### Development server
