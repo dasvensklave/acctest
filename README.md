@@ -18,6 +18,9 @@ yarn, npm and node v14.15.4
 ## Usage
 
 ### Development server
+- npm install
+
+### Development server
 
 ```bash
 yarn start / npm start
